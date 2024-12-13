@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeCircleSolution", "LifeCircleSolution\LifeCircleSolution.csproj", "{406CAAB2-AFA6-45D4-AAE0-A808EAFA45AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406CAAB2-AFA6-45D4-AAE0-A808EAFA45AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406CAAB2-AFA6-45D4-AAE0-A808EAFA45AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406CAAB2-AFA6-45D4-AAE0-A808EAFA45AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406CAAB2-AFA6-45D4-AAE0-A808EAFA45AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E45FB6A-31E0-404F-AD24-3CB6E6398E96}
+	EndGlobalSection
+EndGlobal
